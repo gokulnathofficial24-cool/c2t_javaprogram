@@ -1,4 +1,4 @@
-package single_inheritance_example;
+package day5.single_inheritance_example;
 
 public class Slinheritance {
 			public static void main(String[] args) {
