@@ -1,4 +1,4 @@
-package day8.shoppingmall;
+package shoppingmall;
 
 public interface Shopping {
 	void purchase() ;

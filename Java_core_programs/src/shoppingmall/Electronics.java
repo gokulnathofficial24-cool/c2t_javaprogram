@@ -1,4 +1,4 @@
-package day8.shoppingmall;
+package shoppingmall;
 
 public class Electronics  implements Shopping{
 	public void purchase() {
